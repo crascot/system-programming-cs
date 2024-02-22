@@ -1,0 +1,16 @@
+C:\Users\CRASCOT\Desktop\lab1\bin\Debug\net8.0-windows\lab1.exe
+C:\Users\CRASCOT\Desktop\lab1\bin\Debug\net8.0-windows\lab1.deps.json
+C:\Users\CRASCOT\Desktop\lab1\bin\Debug\net8.0-windows\lab1.runtimeconfig.json
+C:\Users\CRASCOT\Desktop\lab1\bin\Debug\net8.0-windows\lab1.dll
+C:\Users\CRASCOT\Desktop\lab1\bin\Debug\net8.0-windows\lab1.pdb
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.Form1.resources
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.csproj.GenerateResource.cache
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfoInputs.cache
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfo.cs
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.csproj.CoreCompileInputs.cache
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.dll
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\refint\lab1.dll
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.pdb
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\lab1.genruntimeconfig.cache
+C:\Users\CRASCOT\Desktop\lab1\obj\Debug\net8.0-windows\ref\lab1.dll
